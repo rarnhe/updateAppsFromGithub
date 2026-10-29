@@ -20,11 +20,26 @@ GITHUB_TOKEN = ""
 
 # 配置列表
 CONFIGS = [
-    {"repo": "Neilooo/md-reader", "keywords": "zip;portable"},
-    {"repo": "Vscodium/vscodium", "keywords": "zip"},
-    {"repo": "ramensoftware/windhawk", "keywords": "offline"},
-    {"repo": "patui/Nosub", "keywords": "7z"},
-    {"repo": "mihomo-party-org/clash-party", "keywords": "clash;windows;portable;7z"},
+    {
+        "repo": "Neilooo/md-reader",
+        "keywords": "zip;portable",
+    },
+    {
+        "repo": "Vscodium/vscodium",
+        "keywords": "zip",
+    },
+    {
+        "repo": "ramensoftware/windhawk",
+        "keywords": "offline",
+    },
+    {
+        "repo": "patui/Nosub",
+        "keywords": "7z",
+    },
+    {
+        "repo": "mihomo-party-org/clash-party",
+        "keywords": "clash;windows;portable;7z",
+    },
 ]
 
 # 全局忽略 SSL 证书校验上下文
